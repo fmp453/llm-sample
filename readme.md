@@ -59,13 +59,13 @@ python mmlu.py 1
 コマンド引数は以下の通り。数値で指定
 | index | model name |
 | ---- | ---- |
-| 1 | microsoft/Phi-3-mini-128k-instruct |
-| 2 | microsoft/Phi-3-small-128k-instruct |
-| 3 | microsoft/Phi-3-medium-128k-instruct |
-| 4 | Qwen/Qwen2-7B-Instruct |
-| 5 | meta-llama/Meta-Llama-3-8B-Instruct |
-| 6 | google/gemma-2-9b-it |
-| 7 | google/gemma-2-27b-it |
+| 0 | microsoft/Phi-3-mini-128k-instruct |
+| 1 | microsoft/Phi-3-small-128k-instruct |
+| 2 | microsoft/Phi-3-medium-128k-instruct |
+| 3 | Qwen/Qwen2-7B-Instruct |
+| 4 | meta-llama/Meta-Llama-3-8B-Instruct |
+| 5 | google/gemma-2-9b-it |
+| 6 | google/gemma-2-27b-it |
 
 
 ## エラー
