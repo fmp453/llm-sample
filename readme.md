@@ -72,3 +72,5 @@ python mmlu.py 1
 下のものに似たのが出た：もう1回実行すればできます。
 > requests.exceptions.ChunkedEncodingError: ('Connection broken: IncompleteRead(749845505 bytes read, 4226853167 more expected)', IncompleteRead(749845505 bytes read, 4226853167 more expected))
 
+## License 
+各モデルのライセンスに従ってください。
